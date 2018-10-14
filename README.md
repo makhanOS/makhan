@@ -2,16 +2,7 @@
 
 Operating system written for educational purposes
 
-## References
-
-- [os-tutorial](https://github.com/cfenollosa/os-tutorial)
-- [OSDev](https://wiki.osdev.org/Creating_an_Operating_System)
-
-## Notes
-
-You can see the notes taken while working on this project in this repo: [makhanOS/notes](https://github.com/makhanOS/notes).
-
-## Running this OS
+## Running
 
 ### Requirements
 
@@ -85,7 +76,7 @@ make
 make install
 ```
 
-### Running the OS
+### Running the OS image
 
 - To simply run the OS:
 
@@ -98,3 +89,12 @@ make run
 ```bash
 make debug
 ```
+
+## References
+
+- [os-tutorial](https://github.com/cfenollosa/os-tutorial)
+- [OSDev](https://wiki.osdev.org/Creating_an_Operating_System)
+
+## Notes
+
+You can see the notes taken while working on this project in this repo: [makhanOS/notes](https://github.com/makhanOS/notes).
